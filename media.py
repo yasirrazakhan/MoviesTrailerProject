@@ -1,4 +1,4 @@
-# A template to create movie movie objects
+# A template to create multiple movie objects
 class Movies():
     def __init__(
                  self, movie_title,
