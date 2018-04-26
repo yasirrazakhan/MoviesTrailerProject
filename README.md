@@ -1,6 +1,6 @@
 # Movies Trailer Project
 
-A Python project which dynamically generates a webpage from a Python `Data Structure` which displays movies trailer. Along side it's title and art box. 
+A Python project which dynamically generates a webpage from a Python `Data Structure` which displays movies trailer along side it's title and art box. 
 
 ## Getting Started 
 
