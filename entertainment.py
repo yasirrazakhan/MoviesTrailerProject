@@ -51,8 +51,8 @@ three_idiots = media.Movies(
 
 # List for storing instances of Movies.
 movies_list = [
-              thor, wonder_woman, source_code,
-              moana, hunger_games, three_idiots
+             thor, wonder_woman, source_code,
+             moana, hunger_games, three_idiots
               ]
 
 # Passing the list to the funciton to generate HTML page
